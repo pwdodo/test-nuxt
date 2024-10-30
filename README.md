@@ -11,3 +11,6 @@ password : password </br>
 <b>Employee</b> </br>
 username : employee@test.com</br>
 password : password </br>
+
+<b>Link Demo :</b></br>
+https://test-nuxt-pjpt.pages.dev/
